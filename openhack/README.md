@@ -1,7 +1,7 @@
 # MedAssist
 
 Medication reminders in English, Urdu and Sindhi, designed for older adults and their caregivers.
-Built for the HealthTech challenge HT-01 (Multilingual Medication Adherence Assistant).
+Built for the HealthTech challenge (Multilingual Medication Adherence Assistant).
 
 ## What it does
 - Reads a prescription photo with OCR, or accepts typed or pasted text, then proposes medicines for the user to **review and correct** before anything is saved.
